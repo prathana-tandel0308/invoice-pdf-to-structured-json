@@ -1,0 +1,8 @@
+
+pymupdf4llm
+google-genai
+pydantic
+python-dotenv
+streamlit
+tiktoken
+requests
